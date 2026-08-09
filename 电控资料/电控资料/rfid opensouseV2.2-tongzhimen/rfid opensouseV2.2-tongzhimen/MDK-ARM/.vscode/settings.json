@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "motor_control_task.h": "c",
+        "rfid_task.h": "c",
+        "main.h": "c",
+        "led.h": "c",
+        "bsp_adc.h": "c",
+        "user_setup.h": "c"
+    }
+}
